@@ -1,18 +1,15 @@
 {
-	"name": "_NAME_",
-	"version": "_VERSION_",
-	"author_username": "_AUTHOR_USERNAME_",
-	"release_date": "_RELEASE_DATE_",
-	"license": "_LICENSE_",
-	"price_usd": "_PRICE_",
-	"download_url": "_DOWNLOAD_URL_",
-	"demo_url": "_DEMO_URL_",
-	"information_url": "_INFORMATION_URL_",
-	"description": "_DESCRIPTION_",
+	"name": "Popular Posts",
+	"version": "1.0.1",
+	"author_username": "revelion",
+	"release_date": "2022/09/22",
+	"license": "Free 2 Use",
+	"download_url": "https://github.com/revelion/bludit-plugins-popular-posts.git",
+	"description": "Display the popular or top trending posts by day, week or month in the sidebar",
 	"features": {
-		"0": "",
-		"1": "",
-		"2": ""
+		"0": "Change the label or title",
+		"1": "Number of posts to be displayed",
+		"2": "Keep the files by day, week or month"
 	},
 	"description_de": "_DESCRIPTION_GERMAN_",
 	"features_de": {
