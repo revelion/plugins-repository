@@ -1,0 +1,7 @@
+{
+    "plugin-data":
+    {
+        "name": "Popular Posts",
+        "description": "Display The Popular Posts by day, week or month in the sidebar."
+    }
+}
